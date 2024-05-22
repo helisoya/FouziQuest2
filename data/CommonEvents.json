@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"list":[{"code":112,"indent":0,"parameters":[]},{"code":223,"indent":1,"parameters":[[102,-68,-68,0],60,true]},{"code":223,"indent":1,"parameters":[[0,0,0,0],60,true]},{"code":0,"indent":1,"parameters":[]},{"code":413,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"name":"Alarm","switchId":2,"trigger":2},
+{"id":2,"list":[{"code":121,"indent":0,"parameters":[16,16,0]},{"code":0,"indent":0,"parameters":[]}],"name":"Potion Speed Trigger","switchId":1,"trigger":0},
+{"id":3,"list":[{"code":205,"indent":0,"parameters":[-1,{"list":[{"code":29,"parameters":[6],"indent":null},{"code":0}],"repeat":false,"skippable":false,"wait":false}]},{"code":505,"indent":0,"parameters":[{"code":29,"parameters":[6],"indent":null}]},{"code":230,"indent":0,"parameters":[500]},{"code":205,"indent":0,"parameters":[-1,{"list":[{"code":29,"parameters":[4],"indent":null},{"code":0}],"repeat":false,"skippable":false,"wait":false}]},{"code":505,"indent":0,"parameters":[{"code":29,"parameters":[4],"indent":null}]},{"code":121,"indent":0,"parameters":[16,16,1]},{"code":0,"indent":0,"parameters":[]}],"name":"Potion Speed Effect","switchId":16,"trigger":2},
+{"id":4,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0}
+]
