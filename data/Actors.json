@@ -1,6 +1,6 @@
 [
 null,
-{"id":1,"battlerName":"","characterIndex":0,"characterName":"perso","classId":1,"equips":[18,1],"faceIndex":0,"faceName":"Perso","traits":[],"initialLevel":1,"maxLevel":99,"name":"Fouzi","nickname":"Fouzi","note":"","profile":"Fouzi est a la retraite maintenant. Enfin, c'est ce qu'il pense."},
+{"id":1,"battlerName":"","characterIndex":0,"characterName":"perso","classId":1,"equips":[18,1],"faceIndex":0,"faceName":"Perso","traits":[],"initialLevel":1,"maxLevel":99,"name":"Fouzi","nickname":"Fouzi","note":"","profile":"Fouzi est a la retraite maintenant. \nEnfin, c'est ce qu'il pense."},
 {"id":2,"battlerName":"","characterIndex":1,"characterName":"perso","classId":2,"equips":[2,2,0,0,0],"faceIndex":1,"faceName":"Perso","traits":[],"initialLevel":5,"maxLevel":99,"name":"Jerome","nickname":"Jerome","note":"","profile":"C'est absurde."},
 {"id":3,"battlerName":"","characterIndex":2,"characterName":"perso","classId":3,"equips":[3,3,0,0,0],"faceIndex":2,"faceName":"Perso","traits":[],"initialLevel":8,"maxLevel":99,"name":"Perrot","nickname":"Perrot","note":"","profile":"On est pas au club med ici."},
 {"id":4,"battlerName":"","characterIndex":3,"characterName":"perso","classId":4,"equips":[4,4,0,0,0],"faceIndex":3,"faceName":"Perso","traits":[],"initialLevel":16,"maxLevel":99,"name":"Paterlini","nickname":"Paterlini","note":"","profile":"Vous ne savez pas le faire !"},
@@ -10,5 +10,5 @@ null,
 {"id":8,"battlerName":"","characterIndex":7,"characterName":"perso","classId":8,"equips":[8,8,0,0,0],"faceIndex":7,"faceName":"Perso","traits":[],"initialLevel":16,"maxLevel":99,"name":"Guyeux","nickname":"Guyeux","note":"","profile":"On va sur WikiMaths."},
 {"id":9,"battlerName":"","characterIndex":4,"characterName":"Ennemi","classId":9,"equips":[9,9,0,0,0],"faceIndex":5,"faceName":"Ennemi","traits":[],"initialLevel":20,"maxLevel":99,"name":"Baptiste","nickname":"Baptiste","note":"","profile":"M.Fouzi est trop cool !"},
 {"id":10,"battlerName":"","characterIndex":0,"characterName":"","classId":10,"equips":[21,19,0,0,0],"faceIndex":0,"faceName":"Perso3","traits":[],"initialLevel":5,"maxLevel":99,"name":"Chaise","nickname":"Chaise","note":"","profile":"Cette chaise est très puissante."},
-{"id":11,"battlerName":"","characterIndex":7,"characterName":"perso3","classId":11,"equips":[22,21,0,0,0],"faceIndex":3,"faceName":"Perso3","traits":[],"initialLevel":6,"maxLevel":99,"name":"Fouzio","nickname":"L'Assassin","note":"","profile":"Fouzio est un assassin de renom. Il combat les templiers Windows."}
+{"id":11,"battlerName":"","characterIndex":7,"characterName":"perso3","classId":11,"equips":[22,21,0,0,0],"faceIndex":3,"faceName":"Perso3","traits":[],"initialLevel":6,"maxLevel":99,"name":"Fouzio","nickname":"L'Assassin","note":"","profile":"Fouzio est un assassin de renom. Il combat \nles templiers Windows."}
 ]
